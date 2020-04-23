@@ -1,0 +1,7 @@
+li{
+    font-weight: bolder;
+    font-family: initial;
+}
+ol>li{
+    color: red;
+}

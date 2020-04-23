@@ -1,0 +1,19 @@
+*{
+    color: rgb(72, 255, 0);
+}
+p{
+    font-size: 30px;
+}
+h1{
+    font-family: cursive;
+}
+#newsection{
+
+    margin-left: 10px;
+}
+.osmpara{
+    background-color: lightpink;
+}
+.bigpara{
+    font-size: 50px;
+}
